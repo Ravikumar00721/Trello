@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779021640124",
+    "project_id": "trello-ed39c",
+    "storage_bucket": "trello-ed39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779021640124:android:05a7df162bda15b6c6cbb9",
+        "android_client_info": {
+          "package_name": "msi.crool.trello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzKgEPHm3rVXZhh9Mw5ui_wpR-z4rGXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
